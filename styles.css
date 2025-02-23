@@ -1,0 +1,32 @@
+* {
+    background-color: #FAF4FA;
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #8C54BB;
+}
+
+table {
+    margin: 0 auto;
+    border: solid #8C54BB;
+    width: 650px;
+}
+
+th {
+    background-color: #d6a4e0;
+}
+
+td {
+    border-top: thin solid #8C54BB;
+}
+
+mark {
+    background-color: #b0e0e6;
+    font-family: monospace;
+}
